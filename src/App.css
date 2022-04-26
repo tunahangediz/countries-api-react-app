@@ -16,6 +16,9 @@ body {
   }
 }
 
+a {
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -100,6 +103,7 @@ body {
 
 a {
   text-decoration: none;
+  color: black;
 }
 a:visited {
   color: black;
